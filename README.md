@@ -18,7 +18,7 @@ A new project, a new idea? or a new change, but always something new!!  <br><br>
       <img loading="lazy" src="https://raw.githubusercontent.com/hedgewars/hw/refs/heads/master/bin/hwsfile.ico">
     </details>
   ## G
-  - [Gismogy Portofolio site](https://github.com/zmcx16)
+  - [Gismogy Portofolio site](https://Gismogy.com)
   - [GoLang](#)
     <details>
       <summary>🌱 W.I.P </summary>
