@@ -1,15 +1,27 @@
-# Gismogy | Floyd van der weij
-
-
-As my github is quite empty, you will see me put something here every single week. <Br>
-A new project, a new idea? or a new change, but always something new!!  <br><br>
-<b>(Latest Update : 22-9-25)</b>
+# Gismogy | Floyd (Jenn) van der weij
 
 <details>
+  <summary>About Me</summary>
   
+  ### Hey, im Floyd (Jenn), <Br>
+  Im a Medior webdeveloper that loves to do a bit of everything.<Br>
+  CyberSecurity, DevOps, PHP, Go, JS, anything i really can get my hands on i will work on it.<Br>
+  My biggest flaw and strength is that i keep creating new projects, but in time i redo my mistakes becuase of it.<Br>
+  This way i learn better ways of programming, while also keeping my time efficient<Br><Br>
+  
+  So no matter what it is, ill create a whole server enviroment or making a random 3D animation with OpenGL(3d) or a new site.<Br>
+  I am not sitting still, thats a promise.<Br>
+  Ps, i dont have much projects to show because alot doesnt work anymore.<Br>
+    (this will be fixed, explained under this message)<Br>
+  <Br>
+</details>
+<details>
   <summary>Projects And Links</summary>
  <!-- **Quick Jump:** | [G](#g) [H](#h) -->
-  
+  As my github is quite empty, you will see me put something here every single week. <Br>
+  A new project, a new idea? or a new change, but always something new!!  <br><br>
+  <b>(Latest Update : 22-9-25)</b>
+
   ## G
   - [Gismogy Portofolio site](https://Gismogy.com)
   - [GoLang](#)
