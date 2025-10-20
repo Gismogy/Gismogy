@@ -20,7 +20,8 @@
  <!-- **Quick Jump:** | [G](#g) [H](#h) -->
   As my github is quite empty, you will see me put something here every single week. <Br>
   A new project, a new idea? or a new change, but always something new!!  <br><br>
-  <b>(Latest Update : 22-9-25)</b>
+  <b>(Latest Update : 20-10-25)</b> <i> i Been sick for two weeks and life took a 180 so i havent had a update yet! but this week it will! </i>
+
 
   ## G
   - [Gismogy Portofolio site](https://Gismogy.com)
